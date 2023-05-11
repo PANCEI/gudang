@@ -12,7 +12,8 @@ class User extends Seeder
         $data = [
             "username" => "aswar",
             "id_profil" => 1,
-            "password" => "$2y$10$6E0X0b2I7yMzc9wrOHOHDu0jUHpuiK0.p.2oKN.LoBHBPsT24kfzW ",
+            "id_gudang" => 1,
+            "password" => "$2y$10$6747HLPski/LmgxsK41CK.IPw2aZ98Xr1hNfx54gsq7L816aedvq6",
             "telpon" => "081343469728",
             "aktif" => 1,
             "foto" => "default.png",

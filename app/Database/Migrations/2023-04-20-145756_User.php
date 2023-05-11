@@ -19,6 +19,10 @@ class User extends Migration
                 'type'       => 'INT',
 
             ],
+            'id_gudang' => [
+                'type'       => 'INT',
+
+            ],
             'username' => [
                 'type'       => 'VARCHAR',
                 'constraint' => '128',

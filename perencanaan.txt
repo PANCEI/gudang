@@ -1,0 +1,16 @@
+dashbord 
+1.jumlah barang di setiap gudang untuk admin super 
+2.jumlah barang di gudang admin sesuai nama gudangnya
+khusus admin super
+tambah user
+tambah gudang
+liat barang sesuai gudang
+
+
+all 
+tambah barang 
+liat barang sesuai role gudang 
+ubah password
+log out
+
+
